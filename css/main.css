@@ -721,14 +721,14 @@ h1, h2, h3, h4, h5, h6, p {
   cursor: pointer;
 }
 
-.portfolio-card img {
+.portfolio-card video {
   position: relative;
   width: 100%;
   -webkit-transition: all .15s ease-in;
   transition: all .15s ease-in;
 }
 
-.portfolio-card img:hover {
+.portfolio-card video:hover {
   -webkit-filter: brightness(80%);
           filter: brightness(80%);
 }
